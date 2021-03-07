@@ -1,0 +1,30 @@
+.journal-content{
+   margin: 0% auto;
+    font-size: 15pt;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: -2em;
+}
+
+h1{
+    font-size: 60pt;
+}
+
+img{
+    max-width: 100%;
+    position: relative;
+    margin-left: -3em;
+}
+
+.paragraph{
+    border-bottom: rgb(91, 91, 247) solid;
+    border-top: rgb(91, 91, 247) solid;
+    font-size: 30pt;
+    padding: 2rem;
+
+}
+
+blockquote{
+    border-left: grey solid 4pt;
+    padding: 1rem;
+}
