@@ -13,18 +13,22 @@ h1{
 img{
     max-width: 100%;
     position: relative;
-    margin-left: -3em;
 }
 
 .paragraph{
     border-bottom: rgb(91, 91, 247) solid;
     border-top: rgb(91, 91, 247) solid;
     font-size: 30pt;
-    padding: 2rem;
+    padding: 1rem;
+    line-height: 41pt;
 
 }
 
 blockquote{
     border-left: grey solid 4pt;
     padding: 1rem;
+}
+
+.kids{
+    margin-left: -3rem;
 }
