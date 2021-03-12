@@ -6,8 +6,23 @@
     padding: -2em;
 }
 
+.journal-header{
+    background-color: yellow;
+    max-width: 100%;
+    text-align: center;
+    position: relative;
+    padding-bottom: 4rem;
+    padding-top: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+
+    
+}
+
 h1{
-    font-size: 60pt;
+    font-size: 80pt;
+    padding-left: 5rem;
+    padding-right: 5rem;
 }
 
 img{

@@ -5,6 +5,16 @@
     font-family: Arial, Helvetica, sans-serif;
     padding: -2em;
 }
+.journal-header{
+    text-align: center;
+    background-image: url(/a-journal-page/remote-home.jpg);
+    position: relative;
+    max-width: 100%;
+    padding: 8rem;
+    color: white;
+    margin: 0% auto;
+    
+}
 
 h1{
     font-size: 60pt;
@@ -15,7 +25,7 @@ img{
     position: relative;
 }
 
-.paragraph{
+.paragraph
     border-bottom: rgb(91, 91, 247) solid;
     border-top: rgb(91, 91, 247) solid;
     font-size: 30pt;

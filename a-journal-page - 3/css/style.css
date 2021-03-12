@@ -7,8 +7,10 @@
 }
 
 .journal-content-two{
-    top: -200px;
-}
+    position: relative;
+    top: -23rem;
+    background-color: white;
+    }
 
 h1{
     font-size: 60pt;
